@@ -1,11 +1,11 @@
 title: Hannah Curtis - Data Scientist # your name (or website title) here
 logo: "/images/1692974147550.jfif?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  BSc Mathematics (Hons) 2:1 
   <br><br>
-  Second description 
+  Over 2 years experience working as a Data Scientist in industry
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/hannah-curtis-293216234/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
